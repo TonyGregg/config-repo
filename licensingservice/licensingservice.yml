@@ -1,4 +1,4 @@
-tracer: "I AM THE DEFAULT PROPERY ! Thanks visiting me. I have changed my value. Do you see me?"
+tracer: "I AM THE DEFAULT PROPERY ! I am everywhere by default. Thanks visiting me. I have changed my value. Do you see me?"
 spring.jpa.database: "POSTGRESQL"
 spring.datasource.platform:  "postgres"
 spring.jpa.show-sql: "true"
